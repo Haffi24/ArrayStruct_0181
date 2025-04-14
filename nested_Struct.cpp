@@ -24,7 +24,7 @@ int main()
         cout << "Hero ke- " << i + 1 << endl;
         cout << "Masukkan nama hero = ";
         getline(cin, arhero[i].nama);
-        cout << "Masukkan nama hero = ";
+        cout << "Masukkan jenis role = ";
         getline(cin, arhero[i].role);
         cout << "Masukkan tipe hero = ";
         cin >> arhero[i].tipe;
